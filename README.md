@@ -2,16 +2,13 @@
 
 # Himanshu Bisht
 
-### Software Engineer · Python · Backend · AI Systems · Cloud & Data Engineering
+### Software Engineer · Python · Backend · AI Systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-AloneRider--pixel-181717?logo=github&logoColor=white)](https://github.com/AloneRider-pixel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Bisht-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
-[![Python](https://img.shields.io/badge/Python-Engineering-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-AloneRider--pixel-181717?logo=github&logoColor=white)](https://github.com/AloneRider-pixel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-himanshubisht.is--a.dev-111827?logo=google-chrome&logoColor=white)](https://himanshubisht.is-a.dev)
 
-**I build production-oriented backend, AI, distributed systems, and data platforms.**
+**I build production-oriented backend and AI systems with Python, FastAPI, PostgreSQL, and AWS.**
 
 </div>
 
@@ -19,11 +16,13 @@
 
 ## About
 
-I’m a Software Engineer focused on building reliable systems with **Python, FastAPI, SQL, PostgreSQL, AWS, Docker, and modern AI tooling**.
+Software Engineer focused on **backend engineering and AI systems**, with supporting experience in data engineering, distributed systems, cloud infrastructure, testing, and observability.
 
-My work spans backend engineering, AI/LLM applications, data engineering, distributed systems, testing, and cloud/SRE. I prefer systems that are **observable, testable, secure, and designed around explicit engineering trade-offs**.
+I care about systems that are **reliable, observable, secure, testable, and explicit about engineering trade-offs**.
 
-I’m interested in opportunities across **Software Engineering, Backend Engineering, AI Engineering, and Data Engineering**.
+**Primary focus:** Python · FastAPI · Backend Engineering · PostgreSQL · REST APIs · AWS · Docker
+
+**AI focus:** RAG · LangGraph · LLM applications · evaluation · agent workflows
 
 ---
 
@@ -32,72 +31,35 @@ I’m interested in opportunities across **Software Engineering, Backend Enginee
 ### 🛡️ Aegis — AI Production Reliability & Incident Response
 **Python · FastAPI · LangGraph · RAG · PostgreSQL/pgvector · Redis · React · Kubernetes · Terraform**
 
-AI-assisted production incident investigation platform that correlates telemetry, runbooks, deployments, and historical context to produce evidence-backed root-cause hypotheses and remediation recommendations with human approval gates.
+AI-assisted incident investigation platform that correlates telemetry, deployments, runbooks, and incident history to produce evidence-backed hypotheses and remediation recommendations with human approval gates.
 
 → [View repository](https://github.com/AloneRider-pixel/aegis)
 
 ### 🔍 ForgeAI — AI-Assisted Pull Request Risk Review
 **Python · FastAPI · GitHub APIs · deterministic analysis · LLM planning · CI/CD**
 
-Pull-request review platform combining deterministic risk analysis with bounded repository context and optional LLM-assisted planning. Designed around secret redaction, explicit fallback behavior, fail-closed gates, and reproducible evaluation.
+Pull-request review platform combining deterministic risk analysis with bounded repository context, secret redaction, security guardrails, and optional LLM-assisted planning.
 
 → [View repository](https://github.com/AloneRider-pixel/forgeai)
 
 ### ☁️ Cloud Data Platform — End-to-End ETL/ELT
 **Python · SQL · Airflow · dbt · AWS S3 · PostgreSQL · Snowflake · Docker**
 
-Data platform covering ingestion, orchestration, transformation, data quality, warehouse modeling, observability, and analytics. Designed around idempotent processing, layered data models, schema validation, and pipeline SLAs.
+Data platform covering ingestion, orchestration, transformation, data quality, warehouse modeling, observability, and analytics.
 
 → [View repository](https://github.com/AloneRider-pixel/cloud-data-platform)
 
-### ⚡ Event-Driven Platform — Distributed Order System
-**Python · FastAPI · Kafka · PostgreSQL · Redis · Docker**
-
-Microservices-based order platform using asynchronous events, consumer groups, saga-style workflows, idempotency, dead-letter queues, retries, and service-level observability.
-
-→ [View repository](https://github.com/AloneRider-pixel/event-driven-platform)
-
-### 🧪 AI Quality Platform — Test Automation & LLM Evaluation
-**Python · PyTest · HTTPX · Playwright · Locust · RAGAS · GitHub Actions**
-
-Quality engineering platform spanning API, integration, contract, UI, performance, and LLM evaluation workflows with automated reporting and CI/CD integration.
-
-→ [View repository](https://github.com/AloneRider-pixel/ai-quality-platform)
-
 ---
 
-## Engineering Focus
+## Supporting Systems
 
-```text
-Backend Engineering       → Python, FastAPI, REST APIs, PostgreSQL
-AI Engineering            → LLMs, RAG, LangGraph, evaluation, agent systems
-Data Engineering          → SQL, Airflow, dbt, ETL/ELT, warehouses
-Distributed Systems       → Kafka, microservices, event-driven workflows
-Cloud & Platform          → AWS, Docker, Kubernetes, Terraform, CI/CD
-Quality Engineering       → PyTest, API testing, contract testing, observability
-```
+**Distributed Systems** → Kafka · Microservices · Event-driven workflows · Idempotency · Retries · Dead-letter queues
 
----
+**Cloud & Platform** → AWS · Docker · Kubernetes · Terraform · GitHub Actions · Observability
 
-## Technology
+**Quality Engineering** → PyTest · HTTPX · Playwright · Locust · Contract testing · LLM evaluation
 
-**Languages**  
-Python · SQL · JavaScript/TypeScript · Java
-
-**Backend & APIs**  
-FastAPI · REST APIs · SQLAlchemy · Pydantic · Redis
-
-**AI / LLM**  
-LangGraph · RAG · pgvector · embeddings · evaluation workflows
-
-**Data**  
-PostgreSQL · Snowflake · Apache Airflow · dbt · Pandas · PyArrow
-
-**Cloud / DevOps**  
-AWS · Docker · Kubernetes · Terraform · GitHub Actions
-
-**Testing / Quality**  
-PyTest · HTTPX · Playwright · Locust · CodeQL · CI/CD
+→ [Event-Driven Platform](https://github.com/AloneRider-pixel/event-driven-platform) · [AI Quality Platform](https://github.com/AloneRider-pixel/ai-quality-platform) · [Cloud Native Platform](https://github.com/AloneRider-pixel/cloud-native-platform)
 
 ---
 
@@ -113,16 +75,18 @@ PyTest · HTTPX · Playwright · Locust · CodeQL · CI/CD
 
 ## What You’ll Find Here
 
-This profile is organized around **real engineering systems rather than isolated tutorial projects**. Repositories emphasize architecture, reproducibility, automated testing, CI/CD, security controls, and operational thinking.
+A portfolio of systems built to demonstrate **engineering depth rather than isolated tutorial code**: architecture, testing, CI/CD, security controls, evaluation, and operational thinking.
 
-I’m continuously improving these systems through better tests, documentation, evaluation, performance engineering, and deployment practices.
+Every project is documented with its current capabilities and limitations; measured results are presented only when they are backed by reproducible evidence.
 
 ---
 
 ## Connect
 
-**GitHub:** [github.com/AloneRider-pixel](https://github.com/AloneRider-pixel)
-
 **LinkedIn:** [linkedin.com/in/himanshu-bisht-ab6762203](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
 
-**Open to:** Software Engineering · Backend Engineering · AI Engineering · Data Engineering opportunities across India
+**Portfolio:** [himanshubisht.is-a.dev](https://himanshubisht.is-a.dev)
+
+**GitHub:** [github.com/AloneRider-pixel](https://github.com/AloneRider-pixel)
+
+**Open to:** Software Engineering and Backend Engineering opportunities across India.

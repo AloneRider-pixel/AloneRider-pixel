@@ -5,7 +5,8 @@
 ### Software Engineer · Python · Backend · AI Systems · Cloud & Data Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-AloneRider--pixel-181717?logo=github&logoColor=white)](https://github.com/AloneRider-pixel)
-[![Python](https://img.shields.io/badge/Python-Expertise-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Bisht-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
+[![Python](https://img.shields.io/badge/Python-Engineering-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -122,6 +123,6 @@ I’m continuously improving these systems through better tests, documentation, 
 
 **GitHub:** [github.com/AloneRider-pixel](https://github.com/AloneRider-pixel)
 
-**LinkedIn:** [linkedin.com](https://www.linkedin.com/)
+**LinkedIn:** [linkedin.com/in/himanshu-bisht-ab6762203](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
 
 **Open to:** Software Engineering · Backend Engineering · AI Engineering · Data Engineering opportunities across India

@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Bisht-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
 [![GitHub](https://img.shields.io/badge/GitHub-AloneRider--pixel-181717?logo=github&logoColor=white)](https://github.com/AloneRider-pixel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-himanshubisht.is--a.dev-111827?logo=google-chrome&logoColor=white)](https://himanshubisht.is-a.dev)
 
 **I build production-oriented backend and AI systems with Python, FastAPI, PostgreSQL, and AWS.**
 

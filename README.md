@@ -33,6 +33,7 @@ I care about systems that are **reliable, observable, secure, testable, and expl
 
 - Architected a stock-prediction platform using **Python, FastAPI, React.js, PostgreSQL, and AWS**, improving prediction accuracy by **35%** while owning backend engineering, database design, and deployment.
 - Achieved **99.2% uptime** for **35–50 concurrent beta users** with a **65% PyTest coverage** suite and GitHub Actions CI/CD.
+- Product repository: [StockSense AI](https://github.com/AloneRider-pixel/stocksense-ai)
 
 ---
 

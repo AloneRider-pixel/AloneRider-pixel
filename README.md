@@ -25,18 +25,18 @@ I care about systems that are **reliable, observable, secure, testable, and expl
 
 ---
 
-## Work Experience
+## Experience
 
-### Founder & Full-Stack Developer — StockSense AI
-**Remote · Dec 2025 – Aug 2026**
+### StockSense AI | Remote
+**Founder and Full-Stack Developer / Product and Platform Development**  
+*Dec 2025 – Aug 2026*
 
-- Built a stock prediction app from scratch with user interface and backend logic; deployed live with **99.2% uptime** serving **35–50 beta users**, and made predictions **35% faster**.
-- Organized the database and used caching to reduce delays; achieved **65% test coverage** with automated testing on every update.
-- Planned the system end-to-end, built the backend, created the interface, fixed bugs, and deployed the application to production.
+- Architected a stock-prediction platform using **Python, FastAPI, React.js, PostgreSQL, and AWS**, improving prediction accuracy by **35%** while owning backend engineering, database design, and deployment.
+- Achieved **99.2% uptime** for **35–50 concurrent beta users** with a **65% PyTest coverage** suite and GitHub Actions CI/CD.
 
 ---
 
-## Featured Engineering Work
+## Selected Engineering Projects
 
 ### 🛡️ Aegis — AI Production Reliability & Incident Response
 **Python · FastAPI · LangGraph · RAG · PostgreSQL/pgvector · Redis · React · Kubernetes · Terraform**

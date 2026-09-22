@@ -84,8 +84,6 @@ Every project is documented with its current capabilities and limitations; measu
 
 **LinkedIn:** [linkedin.com/in/himanshu-bisht-ab6762203](https://www.linkedin.com/in/himanshu-bisht-ab6762203/)
 
-**Portfolio:** [himanshubisht.is-a.dev](https://himanshubisht.is-a.dev)
-
 **GitHub:** [github.com/AloneRider-pixel](https://github.com/AloneRider-pixel)
 
 **Open to:** Software Engineering and Backend Engineering opportunities across India.

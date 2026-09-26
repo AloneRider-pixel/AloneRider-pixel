@@ -31,6 +31,20 @@ if len(urls) < manifest["minimum_links"]:
 if "Evidence-first profile policy" not in readme:
     raise SystemExit("Profile validation failed: evidence policy section missing")
 
+# Guard the profile against unsupported quantitative claims. Metric-like
+# claims must be accompanied by an evidence, target, benchmark, source, or
+# commit qualifier.
+metric_pattern = re.compile(r"\b\d+(?:\.\d+)?(?:%|ms|s|x)\b", re.I)
+for line in readme.splitlines():
+    line_without_urls = re.sub(r"https?://\S+", "", line)
+    if metric_pattern.search(line_without_urls):
+        lowered = line_without_urls.lower()
+        if not any(token in lowered for token in ("evidence", "target", "benchmark", "source", "commit")):
+            raise SystemExit(
+                "Profile validation failed: quantitative claim is missing an evidence qualifier: "
+                + line.strip()
+            )
+
 print(
     f"profile verification passed: {len(urls)} links, "
     f"{len(manifest['projects'])} traceable projects, and {len(required)} required sections"

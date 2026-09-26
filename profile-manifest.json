@@ -43,5 +43,19 @@
         "docs/architecture.md"
       ]
     }
+  ],
+  "repository_index_path": "docs/repository-index.md",
+  "indexed_repositories": [
+    "enterprise-ai-agent",
+    "cloud-data-platform",
+    "event-driven-platform",
+    "ai-quality-platform",
+    "cloud-native-platform",
+    "aegis",
+    "Citylens",
+    "forgeai",
+    "stocksense-ai",
+    "AloneRider-pixel.github.io",
+    "AloneRider-pixel"
   ]
 }

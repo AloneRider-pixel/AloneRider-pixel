@@ -1,0 +1,47 @@
+{
+  "required_sections": [
+    "Selected projects",
+    "Evidence-first profile policy"
+  ],
+  "minimum_links": 10,
+  "projects": [
+    {
+      "name": "StockSense AI",
+      "repository_url": "https://github.com/AloneRider-pixel/stocksense-ai",
+      "evidence_paths": [
+        "docs/model-evaluation.md",
+        "docs/testing.md"
+      ]
+    },
+    {
+      "name": "Aegis",
+      "repository_url": "https://github.com/AloneRider-pixel/aegis",
+      "evidence_paths": [
+        "docs/architecture.md",
+        "docs/evaluation.md"
+      ]
+    },
+    {
+      "name": "Cloud Data Platform",
+      "repository_url": "https://github.com/AloneRider-pixel/cloud-data-platform",
+      "evidence_paths": [
+        "docs/architecture.md",
+        "docs/data-quality.md"
+      ]
+    },
+    {
+      "name": "ForgeAI",
+      "repository_url": "https://github.com/AloneRider-pixel/forgeai",
+      "evidence_paths": [
+        "docs/architecture.md"
+      ]
+    },
+    {
+      "name": "Event-Driven Platform",
+      "repository_url": "https://github.com/AloneRider-pixel/event-driven-platform",
+      "evidence_paths": [
+        "docs/architecture.md"
+      ]
+    }
+  ]
+}

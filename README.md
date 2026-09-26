@@ -45,6 +45,10 @@ Kafka-based microservices for distributed order processing with versioned shared
 
 [Repository](https://github.com/AloneRider-pixel/event-driven-platform) · [Architecture](https://github.com/AloneRider-pixel/event-driven-platform/blob/main/docs/architecture.md)
 
+## Repository index
+
+All public repositories are mapped with a review entry point in [Repository Index](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/docs/repository-index.md).
+
 ## Evidence-first profile policy
 
 I do not treat a README number as proof by itself. A quantitative claim should be traceable to versioned code, a named dataset/workload, a reproducible command, the environment, a denominator/run count, and the commit that produced the result.

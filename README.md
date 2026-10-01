@@ -58,6 +58,10 @@ Payment-behavior intelligence with leakage-safe backtesting, model lifecycle con
 
 [Repository](https://github.com/AloneRider-pixel/payment-reliability-os)
 
+## Evidence-first profile policy
+
+Every project claim on this profile is backed by a repository link and, where available, an evidence document. Quantitative statements must identify their evidence, target, benchmark, source, or producing commit. Synthetic fixtures and design targets are not presented as production outcomes.
+
 ## Repository map
 
 The profile's supporting index lives in [docs/repository-index.md](docs/repository-index.md). Each project has its own README, security policy, verification path, and evidence policy where applicable.

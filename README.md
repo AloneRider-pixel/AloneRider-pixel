@@ -4,7 +4,7 @@
 
 ### Software Engineer — Backend · AI Systems · Data Engineering · Cloud
 
-Building production-oriented systems with Python, FastAPI, PostgreSQL, AWS, Docker, RAG/LangGraph, Airflow, and event-driven architectures.
+Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Docker, RAG/LangGraph, Airflow, Kafka, Kubernetes, Terraform, and React.
 
 [![Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml/badge.svg)](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml)
 
@@ -12,48 +12,59 @@ Building production-oriented systems with Python, FastAPI, PostgreSQL, AWS, Dock
 
 ## Engineering focus
 
-| Area | What the repositories demonstrate |
+| Area | Repository evidence |
 |---|---|
-| Backend | FastAPI APIs, authentication, persistence, async workflows, observability |
-| AI systems | RAG, LangGraph, evaluation harnesses, tool boundaries, human approval |
+| Backend | FastAPI APIs, auth, persistence, async workflows, observability |
+| AI systems | RAG, LangGraph, evaluation, tool boundaries, approval gates |
 | Data engineering | ETL/ELT, Airflow, dbt, validation, incremental processing |
-| Distributed systems | Kafka event contracts, retries, idempotency, service boundaries |
-| Cloud & DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD, CodeQL |
+| Distributed systems | Kafka services, event contracts, retries, idempotency |
+| Cloud / DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD |
+| Quality / security | Pytest, CodeQL, dependency review, Scorecard, evidence policies |
 
 ## Selected systems
 
 ### StockSense AI
-Market-intelligence system with time-series walk-forward evaluation and reproducible sample-data validation.
+Market-intelligence platform with chronological walk-forward evaluation, prediction history, reproducible sample-data validation, and a React dashboard.
 
-[Repository](https://github.com/AloneRider-pixel/stocksense-ai) · [Evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md) · [Testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
+[Repository](https://github.com/AloneRider-pixel/stocksense-ai) · [Model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md) · [Testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
 
 ### Aegis
-AI production-reliability platform combining telemetry, RAG, LangGraph investigation workflows, controlled remediation, audit trails, and reproducible failure simulation.
+AI incident-response platform combining telemetry, RAG, LangGraph investigation workflows, controlled remediation, audit trails, and reproducible failure simulation.
 
-[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md) · [Evaluation](https://github.com/AloneRider-pixel/aegis/blob/main/docs/evaluation.md)
+[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md) · [Verification](https://github.com/AloneRider-pixel/aegis/blob/main/docs/verification.md)
 
 ### Cloud Data Platform
-End-to-end ingestion, Airflow orchestration, dbt transformation, warehouse modeling, and data-quality platform.
+End-to-end ingestion, Airflow orchestration, dbt transformation, warehouse modeling, and data-quality controls.
 
-[Repository](https://github.com/AloneRider-pixel/cloud-data-platform) · [Architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md) · [Data Quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
+[Repository](https://github.com/AloneRider-pixel/cloud-data-platform) · [Architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md) · [Data quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
 
 ### ForgeAI
-AI-assisted pull-request risk analysis with deterministic evaluation, security controls, bounded repository context, and auditable automation.
+Pull-request risk and governance system using deterministic analysis, bounded repository context, security evidence, and approval-gated automation.
 
 [Repository](https://github.com/AloneRider-pixel/forgeai) · [Architecture](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/architecture.md)
 
 ### Event-Driven Platform
-Kafka-based microservices for distributed order processing with shared event contracts, retries, idempotency, and failure handling.
+Kafka-based distributed order-processing services with shared event contracts, retries, idempotency, and failure handling.
 
 [Repository](https://github.com/AloneRider-pixel/event-driven-platform) · [Architecture](https://github.com/AloneRider-pixel/event-driven-platform/blob/main/docs/architecture.md)
 
+### CareerOS
+Evidence-backed job-search workflow covering job discovery, JD intelligence, resume/application package generation, recruiter-contact provenance, mailbox synchronization, interview practice, and outcome-based ranking calibration.
+
+[Repository](https://github.com/AloneRider-pixel/Ai-job-search)
+
+### Payment Reliability OS
+Payment-behavior intelligence with leakage-safe backtesting, model lifecycle controls, drift monitoring, and deterministic receivables actions.
+
+[Repository](https://github.com/AloneRider-pixel/payment-reliability-os)
+
 ## Repository map
 
-All public repositories are indexed in [Repository Index](docs/repository-index.md).
+The profile's supporting index lives in [docs/repository-index.md](docs/repository-index.md). Each project has its own README, security policy, verification path, and evidence policy where applicable.
 
-## Evidence-first profile policy
+## Evidence standard
 
-Quantitative claims should be traceable to versioned code, a named dataset or workload, a reproducible command, environment, denominator/run count, and producing commit. Capabilities are described as capabilities; design targets are explicitly labeled; deterministic fixtures are not treated as production benchmarks.
+Quantitative claims must be traceable to versioned source, a named dataset/workload, reproducible commands, environment, denominator/sample count, and producing commit. Design targets and synthetic fixtures are labeled explicitly rather than presented as production measurements.
 
 ## Links
 
@@ -65,8 +76,9 @@ Open to Software Engineer, Backend Engineer, AI Engineer, and Data Engineer role
 
 ## Verification
 
-Profile CI validates the README/profile structure. Repository-level CI, CodeQL, dependency review, and Scorecard provide the technical validation surface for individual projects.
+Profile CI validates the profile structure. Individual repositories provide their own CI, CodeQL, dependency-review, and Scorecard validation where configured.
 
 ## Maintenance standard
 
-Keep profile claims synchronized with source repositories and preserve evidence links for measured results.
+Keep project descriptions synchronized with source repositories and preserve evidence links for measured results.
+

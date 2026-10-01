@@ -21,7 +21,7 @@ Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Doc
 | Cloud / DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD |
 | Quality / security | Pytest, CodeQL, dependency review, Scorecard, evidence policies |
 
-## Selected systems
+## Selected projects
 
 ### StockSense AI
 Market-intelligence platform with chronological walk-forward evaluation, prediction history, reproducible sample-data validation, and a React dashboard.

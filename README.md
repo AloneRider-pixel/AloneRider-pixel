@@ -62,3 +62,11 @@ Capabilities are presented as capabilities; design targets are labeled as target
 ## Availability
 
 Open to Software Engineer / Backend / AI Engineer / Data Engineer roles across India.
+
+## Repository review path
+
+Use [repository index](docs/repository-index.md) as the portfolio map and [evidence policy](docs/evidence-policy.md) for quantitative claims. Every highlighted project should link to source, validation, or evaluation evidence rather than relying on a headline metric alone.
+
+## Maintenance standard
+
+Keep profile claims synchronized with the underlying repositories. Distinguish capabilities, design targets, and measured results so the profile remains auditable and recruiter-friendly.

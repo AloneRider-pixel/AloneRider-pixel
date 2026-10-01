@@ -30,7 +30,7 @@ Market-intelligence system with time-series walk-forward evaluation and reproduc
 ### Aegis
 AI production-reliability platform combining telemetry, RAG, LangGraph investigation workflows, controlled remediation, audit trails, and reproducible failure simulation.
 
-[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md)
+[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md) · [Evaluation](https://github.com/AloneRider-pixel/aegis/blob/main/docs/evaluation.md)
 
 ### Cloud Data Platform
 End-to-end ingestion, Airflow orchestration, dbt transformation, warehouse modeling, and data-quality platform.

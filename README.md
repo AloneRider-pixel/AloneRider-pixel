@@ -6,54 +6,54 @@
 
 Building production-oriented systems with Python, FastAPI, PostgreSQL, AWS, Docker, RAG/LangGraph, Airflow, and event-driven architectures.
 
+[![Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml/badge.svg)](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml)
+
 </div>
 
 ## Engineering focus
 
-| Area | Evidence in this profile |
+| Area | What the repositories demonstrate |
 |---|---|
 | Backend | FastAPI APIs, authentication, persistence, async workflows, observability |
 | AI systems | RAG, LangGraph, evaluation harnesses, tool boundaries, human approval |
-| Data engineering | ETL/ELT, Airflow, dbt, validation, incremental processing, warehouse modeling |
-| Distributed systems | Kafka event contracts, idempotency, retries, service boundaries |
+| Data engineering | ETL/ELT, Airflow, dbt, validation, incremental processing |
+| Distributed systems | Kafka event contracts, retries, idempotency, service boundaries |
 | Cloud & DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD, CodeQL |
 
-## Selected projects
+## Selected systems
 
 ### StockSense AI
-Market-intelligence system with time-series walk-forward evaluation and a reproducible sample-data benchmark.
+Market-intelligence system with time-series walk-forward evaluation and reproducible sample-data validation.
 
-[Repository](https://github.com/AloneRider-pixel/stocksense-ai) · [Model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md) · [Testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
+[Repository](https://github.com/AloneRider-pixel/stocksense-ai) · [Evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md) · [Testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
 
 ### Aegis
 AI production-reliability platform combining telemetry, RAG, LangGraph investigation workflows, controlled remediation, audit trails, and reproducible failure simulation.
 
-[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md) · [Evaluation protocol](https://github.com/AloneRider-pixel/aegis/blob/main/docs/evaluation.md)
+[Repository](https://github.com/AloneRider-pixel/aegis) · [Architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md)
 
 ### Cloud Data Platform
-End-to-end ETL/ELT platform covering ingestion, Airflow orchestration, dbt transformations, warehouse modeling, and data-quality gates.
+End-to-end ingestion, Airflow orchestration, dbt transformation, warehouse modeling, and data-quality platform.
 
-[Repository](https://github.com/AloneRider-pixel/cloud-data-platform) · [Architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md) · [Data quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
+[Repository](https://github.com/AloneRider-pixel/cloud-data-platform) · [Architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md) · [Data Quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
 
 ### ForgeAI
-AI-assisted pull-request risk analysis with deterministic evaluation, security scanning, repository-context controls, and auditable decisions.
+AI-assisted pull-request risk analysis with deterministic evaluation, security controls, bounded repository context, and auditable automation.
 
 [Repository](https://github.com/AloneRider-pixel/forgeai) · [Architecture](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/architecture.md)
 
 ### Event-Driven Platform
-Kafka-based microservices for distributed order processing with versioned shared event contracts, retries, and trace correlation.
+Kafka-based microservices for distributed order processing with shared event contracts, retries, idempotency, and failure handling.
 
 [Repository](https://github.com/AloneRider-pixel/event-driven-platform) · [Architecture](https://github.com/AloneRider-pixel/event-driven-platform/blob/main/docs/architecture.md)
 
-## Repository index
+## Repository map
 
-All public repositories are mapped with a review entry point in [Repository Index](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/docs/repository-index.md).
+All public repositories are indexed in [Repository Index](docs/repository-index.md).
 
 ## Evidence-first profile policy
 
-I do not treat a README number as proof by itself. A quantitative claim should be traceable to versioned code, a named dataset/workload, a reproducible command, the environment, a denominator/run count, and the commit that produced the result.
-
-Capabilities are presented as capabilities; design targets are labeled as targets; deterministic fixtures are not presented as production benchmarks.
+Quantitative claims should be traceable to versioned code, a named dataset or workload, a reproducible command, environment, denominator/run count, and producing commit. Capabilities are described as capabilities; design targets are explicitly labeled; deterministic fixtures are not treated as production benchmarks.
 
 ## Links
 
@@ -61,12 +61,12 @@ Capabilities are presented as capabilities; design targets are labeled as target
 
 ## Availability
 
-Open to Software Engineer / Backend / AI Engineer / Data Engineer roles across India.
+Open to Software Engineer, Backend Engineer, AI Engineer, and Data Engineer roles across India.
 
-## Repository review path
+## Verification
 
-Use [repository index](docs/repository-index.md) as the portfolio map and [evidence policy](docs/evidence-policy.md) for quantitative claims. Every highlighted project should link to source, validation, or evaluation evidence rather than relying on a headline metric alone.
+Profile CI validates the README/profile structure. Repository-level CI, CodeQL, dependency review, and Scorecard provide the technical validation surface for individual projects.
 
 ## Maintenance standard
 
-Keep profile claims synchronized with the underlying repositories. Distinguish capabilities, design targets, and measured results so the profile remains auditable and recruiter-friendly.
+Keep profile claims synchronized with source repositories and preserve evidence links for measured results.

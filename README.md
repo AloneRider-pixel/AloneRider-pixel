@@ -17,11 +17,11 @@ Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Doc
 | Backend | FastAPI APIs, authentication, persistence, async workflows, observability |
 | AI systems | RAG, LangGraph, evaluation, tool boundaries, approval gates |
 | Data engineering | ETL/ELT, Airflow, dbt, validation, incremental processing |
-| Distributed systems | Kafka services, event contracts, retries, idempotency |
+| Distributed systems | Kafka, event contracts, retries, idempotency |
 | Cloud / DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD |
 | Quality / security | Pytest, CodeQL, dependency review, Scorecard, evidence policies |
 
-## Selected work
+## Selected projects
 
 | Project | Engineering focus |
 |---|---|
@@ -33,13 +33,22 @@ Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Doc
 | [CareerOS](https://github.com/AloneRider-pixel/Ai-job-search) | Evidence-backed job search and outcome learning |
 | [Payment Reliability OS](https://github.com/AloneRider-pixel/payment-reliability-os) | Leakage-safe payment-behavior modeling |
 
-Each project README is intended to explain the problem, architecture, setup, verification path, security boundaries, and evidence expectations.
+Each project README explains the problem, architecture, setup, verification path, security boundary, and evidence expectations.
 
-## Evidence-first engineering
+## Evidence-first profile policy
 
-Quantitative claims are separated from design goals and synthetic fixtures. Where measured results are published, they should be traceable to versioned source, a named dataset or workload, reproducible commands, environment, denominator/sample count, and producing commit.
+Quantitative statements are separated from design goals and synthetic fixtures. Published measurements should be traceable to versioned source, a named dataset or workload, reproducible commands, environment, denominator/sample count, and producing commit.
 
-This keeps the profile useful for technical review without turning example outputs into unsupported production claims.
+### Evidence links
+
+- [StockSense model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md)
+- [StockSense testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
+- [Aegis architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md)
+- [Aegis verification](https://github.com/AloneRider-pixel/aegis/blob/main/docs/verification.md)
+- [Cloud Data Platform architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md)
+- [Cloud Data Platform data quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
+- [ForgeAI architecture](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/architecture.md)
+- [Event-Driven Platform architecture](https://github.com/AloneRider-pixel/event-driven-platform/blob/main/docs/architecture.md)
 
 ## Repository index
 

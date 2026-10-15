@@ -6,7 +6,7 @@
 
 2025 Computer Science graduate focused on Python services, REST APIs, databases, automated testing, and reliable application design. My projects also explore AI-assisted workflows and data platforms.
 
-[LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [Email](mailto:bihimanshu21@gmail.com)
+[Portfolio](https://alonerider-pixel.github.io/) · [LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [Email](mailto:bihimanshu21@gmail.com)
 
 [![Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml/badge.svg)](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml)
 

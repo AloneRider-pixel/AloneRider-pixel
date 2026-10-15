@@ -2,9 +2,11 @@
 
 # Himanshu Bisht
 
-### Software Engineer — Backend · AI Systems · Data Engineering · Cloud
+### Graduate Software Engineer | Python Backend · APIs · Reliability
 
-Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Docker, RAG/LangGraph, Airflow, Kafka, Kubernetes, Terraform, and React.
+2025 Computer Science graduate focused on Python services, REST APIs, databases, automated testing, and reliable application design. My projects also explore AI-assisted workflows and data platforms.
+
+[Portfolio](https://himanshubisht.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [Email](mailto:bihimanshu21@gmail.com)
 
 [![Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml/badge.svg)](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml)
 
@@ -12,34 +14,26 @@ Building production-oriented software with Python, FastAPI, PostgreSQL, AWS, Doc
 
 ## Engineering focus
 
-| Area | What this profile demonstrates |
+I prioritize understandable service boundaries, validated API contracts, persistent data models, automated regression checks, observable behavior, and safe failure handling. I use projects to demonstrate how these practices work together—not to imply that a passing test suite is the same as production adoption.
+
+| Focus | Evidence in my work |
 |---|---|
-| Backend | FastAPI APIs, authentication, persistence, async workflows, observability |
-| AI systems | RAG, LangGraph, evaluation, tool boundaries, approval gates |
-| Data engineering | ETL/ELT, Airflow, dbt, validation, incremental processing |
-| Distributed systems | Kafka, event contracts, retries, idempotency |
-| Cloud / DevOps | AWS, Docker, Kubernetes, Terraform, CI/CD |
-| Quality / security | Pytest, CodeQL, dependency review, Scorecard, evidence policies |
+| Python backend | FastAPI services, REST endpoints, persistence, authentication, background work |
+| Testing and reliability | Pytest, regression tests, reproducible verification, CI |
+| Data workflows | Ingestion, incremental processing, validation, reconciliation |
+| AI and distributed systems | Retrieval workflows, bounded tools, event contracts, retries, idempotency |
 
 ## Selected projects
 
-| Project | Engineering focus |
+| Project | What it demonstrates |
 |---|---|
-| [Aegis](https://github.com/AloneRider-pixel/aegis) | AI incident response, RAG, controlled remediation |
-| [StockSense AI](https://github.com/AloneRider-pixel/stocksense-ai) | Chronological ML evaluation and market intelligence |
-| [Cloud Data Platform](https://github.com/AloneRider-pixel/cloud-data-platform) | Ingestion, Airflow, dbt, data-quality gates |
-| [ForgeAI](https://github.com/AloneRider-pixel/forgeai) | PR risk analysis and governance |
-| [Event-Driven Platform](https://github.com/AloneRider-pixel/event-driven-platform) | Kafka, outbox, idempotency, failure handling |
-| [CareerOS](https://github.com/AloneRider-pixel/Ai-job-search) | Evidence-backed job search and outcome learning |
-| [Payment Reliability OS](https://github.com/AloneRider-pixel/payment-reliability-os) | Leakage-safe payment-behavior modeling |
+| [StockSense AI](https://github.com/AloneRider-pixel/stocksense-ai) | Market-data ingestion, FastAPI, PostgreSQL, Redis, background workers, chronological model evaluation |
+| [Aegis](https://github.com/AloneRider-pixel/aegis) | Incident investigation over simulated telemetry, RAG, bounded tool execution, human-approved remediation |
+| [Cloud Data Platform](https://github.com/AloneRider-pixel/cloud-data-platform) | Python/SQL ingestion, Airflow, dbt, replay-safe processing, data-quality gates |
+| [ForgeAI](https://github.com/AloneRider-pixel/forgeai) | Pull-request risk analysis, deterministic checks, bounded AI assistance |
+| [Event-Driven Platform](https://github.com/AloneRider-pixel/event-driven-platform) | Kafka-based workflows, event contracts, retries, idempotency, failure handling |
 
-Each project README explains the problem, architecture, setup, verification path, security boundary, and evidence expectations.
-
-## Evidence-first profile policy
-
-Quantitative statements are separated from design goals and synthetic fixtures. Published measurements should be traceable to versioned source, a named dataset or workload, reproducible commands, environment, denominator/sample count, and producing commit.
-
-### Evidence links
+### Evidence and review paths
 
 - [StockSense model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md)
 - [StockSense testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
@@ -50,23 +44,24 @@ Quantitative statements are separated from design goals and synthetic fixtures. 
 - [ForgeAI architecture](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/architecture.md)
 - [Event-Driven Platform architecture](https://github.com/AloneRider-pixel/event-driven-platform/blob/main/docs/architecture.md)
 
-## Repository index
+## Core toolkit
 
-The supporting project map lives in [docs/repository-index.md](docs/repository-index.md).
+**Primary:** Python, SQL, FastAPI, REST APIs, PostgreSQL, Pytest, Git, GitHub Actions.
 
-## Links
+**Used across projects:** Redis, background workers, Docker, authentication and authorization, CI/CD, data validation, structured logging.
 
-[Portfolio](https://himanshubisht.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [GitHub](https://github.com/AloneRider-pixel)
+**Additional project areas:** LangGraph and RAG, pgvector, Airflow, dbt, Kafka, Kubernetes, Terraform, OpenTelemetry.
 
-## Availability
+## What I am looking for
 
-Open to Software Engineer, Backend Engineer, AI Engineer, and Data Engineer roles across India.
+Graduate Software Engineer, Associate Software Engineer, and Python Backend Engineer opportunities in India. Open to relocation and suitable on-site, hybrid, or remote roles.
+
+## Evidence-first profile policy
+
+Repository descriptions state implemented capabilities, not assumed business impact. Quantitative claims should link to a named dataset or workload, reproducible method, environment, sample count, and producing commit. Synthetic fixtures are engineering evidence, not proof of production performance or customer adoption.
+
+The [repository index](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/docs/repository-index.md) maps additional work. The [engineering portfolio](https://himanshubisht.is-a.dev/) provides a recruiter-facing overview.
 
 ## Verification
 
-Profile CI validates profile structure. Individual repositories provide their own test, security, and quality gates.
-
-## Maintenance standard
-
-Keep project descriptions synchronized with source repositories, preserve evidence links for measured results, and remove stale claims rather than allowing documentation drift.
-
+This profile is checked by [Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml). Each project repository has its own setup instructions and verification commands.

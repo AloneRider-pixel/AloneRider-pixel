@@ -6,7 +6,7 @@
 
 2025 Computer Science graduate focused on Python services, REST APIs, databases, automated testing, and reliable application design. My projects also explore AI-assisted workflows and data platforms.
 
-[Portfolio](https://himanshubisht.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [Email](mailto:bihimanshu21@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/himanshu-bisht-ab6762203/) · [Email](mailto:bihimanshu21@gmail.com)
 
 [![Profile CI](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml/badge.svg)](https://github.com/AloneRider-pixel/AloneRider-pixel/actions/workflows/ci.yml)
 
@@ -38,7 +38,6 @@ I prioritize understandable service boundaries, validated API contracts, persist
 - [StockSense model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md)
 - [StockSense testing](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/testing.md)
 - [Aegis architecture](https://github.com/AloneRider-pixel/aegis/blob/main/docs/architecture.md)
-- [Aegis verification](https://github.com/AloneRider-pixel/aegis/blob/main/docs/verification.md)
 - [Cloud Data Platform architecture](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/architecture.md)
 - [Cloud Data Platform data quality](https://github.com/AloneRider-pixel/cloud-data-platform/blob/main/docs/data-quality.md)
 - [ForgeAI architecture](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/architecture.md)
@@ -60,7 +59,7 @@ Graduate Software Engineer, Associate Software Engineer, and Python Backend Engi
 
 Repository descriptions state implemented capabilities, not assumed business impact. Quantitative claims should link to a named dataset or workload, reproducible method, environment, sample count, and producing commit. Synthetic fixtures are engineering evidence, not proof of production performance or customer adoption.
 
-The [repository index](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/docs/repository-index.md) maps additional work. The [engineering portfolio](https://himanshubisht.is-a.dev/) provides a recruiter-facing overview.
+The [repository index](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/docs/repository-index.md) maps additional work.
 
 ## Verification
 

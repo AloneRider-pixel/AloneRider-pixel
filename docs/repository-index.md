@@ -14,7 +14,7 @@ implemented capabilities and review paths rather than inventing performance numb
 | [Citylens](https://github.com/AloneRider-pixel/Citylens) | React/TypeScript AI landmark exploration | [Verification](https://github.com/AloneRider-pixel/Citylens/blob/main/docs/verification.md) |
 | [forgeai](https://github.com/AloneRider-pixel/forgeai) | PR risk analysis, deterministic evaluation, security checks | [Verification](https://github.com/AloneRider-pixel/forgeai/blob/main/docs/verification.md) |
 | [stocksense-ai](https://github.com/AloneRider-pixel/stocksense-ai) | Market-data ingestion and time-series model evaluation | [Model evaluation](https://github.com/AloneRider-pixel/stocksense-ai/blob/main/docs/model-evaluation.md) |
-| [AloneRider-pixel.github.io](https://github.com/AloneRider-pixel/AloneRider-pixel.github.io) | Public engineering portfolio | [Portfolio](https://himanshubisht.is-a.dev/) |
+| [AloneRider-pixel.github.io](https://github.com/AloneRider-pixel/AloneRider-pixel.github.io) | Public engineering portfolio |  |
 | [AloneRider-pixel](https://github.com/AloneRider-pixel/AloneRider-pixel) | GitHub profile and evidence policy | [Profile README](https://github.com/AloneRider-pixel/AloneRider-pixel/blob/main/README.md) |
 
 ## Review principle

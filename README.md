@@ -28,7 +28,8 @@ I prioritize understandable service boundaries, validated API contracts, persist
 | Project | What it demonstrates |
 |---|---|
 | [StockSense AI](https://github.com/AloneRider-pixel/stocksense-ai) | Market-data ingestion, FastAPI, PostgreSQL, Redis, background workers, chronological model evaluation |
-| [Aegis](https://github.com/AloneRider-pixel/aegis) | Incident investigation over simulated telemetry, RAG, bounded tool execution, human-approved remediation |
+| [Aegis](https://github.com/AloneRider-pixel/aegis) | Incident investigation over simulated telemetry with a LangGraph workflow, bounded tool execution, human-approved remediation; keyword-search baseline, semantic retrieval planned |
+| [Enterprise AI Support Agent](https://github.com/AloneRider-pixel/enterprise-ai-agent) | Reference implementation (not deployed): pgvector plus full-text retrieval, reranking step, cited answers, JWT auth with admin check, LangGraph agent |
 | [Cloud Data Platform](https://github.com/AloneRider-pixel/cloud-data-platform) | Python/SQL ingestion, Airflow, dbt, replay-safe processing, data-quality gates |
 | [ForgeAI](https://github.com/AloneRider-pixel/forgeai) | Pull-request risk analysis, deterministic checks, bounded AI assistance |
 | [Event-Driven Platform](https://github.com/AloneRider-pixel/event-driven-platform) | Kafka-based workflows, event contracts, retries, idempotency, failure handling |
@@ -47,9 +48,9 @@ I prioritize understandable service boundaries, validated API contracts, persist
 
 **Primary:** Python, SQL, FastAPI, REST APIs, PostgreSQL, Pytest, Git, GitHub Actions.
 
-**Used across projects:** Redis, background workers, Docker, authentication and authorization, CI/CD, data validation, structured logging.
+**Used across projects:** Redis, background workers, authentication and authorization, CI/CD, data validation, structured logging.
 
-**Additional project areas:** LangGraph and RAG, pgvector, Airflow, dbt, Kafka, Kubernetes, Terraform, OpenTelemetry.
+**Additional project areas:** LangGraph and RAG, pgvector, Airflow, dbt, Kafka, OpenTelemetry.
 
 ## What I am looking for
 
